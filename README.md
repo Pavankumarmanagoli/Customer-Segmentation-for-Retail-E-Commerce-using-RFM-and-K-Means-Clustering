@@ -47,3 +47,6 @@ The analysis yields three main segments:
 
 ## Acknowledgements
 Data inspiration from the Olist e-commerce dataset and community notebooks.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
