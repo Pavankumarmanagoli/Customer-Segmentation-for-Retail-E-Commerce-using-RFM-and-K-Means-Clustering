@@ -7,10 +7,10 @@ This repository demonstrates an end-to-end workflow for segmenting customers of 
 Gain a deep understanding of how different customers behave so marketing spend can be focused where it has the greatest impact.
 The analysis transforms raw transaction logs into RFM scores and uses K-Means clustering to:
 
-- uncover purchasing patterns hidden in the data,
-- highlight high-value customers who warrant retention efforts,
-- flag disengaged shoppers that may be drifting toward churn, and
-- inform personalized promotions and product recommendations.
+- Uncover purchasing patterns hidden in the data.
+- Highlight high-value customers who warrant retention efforts.
+- Flag disengaged shoppers that may be drifting toward churn.
+- Inform personalized promotions and product recommendations.
 
 By tailoring outreach to the needs of each segment, retailers can improve customer lifetime value, reduce unnecessary discounts, and build stronger long-term relationships.
 
